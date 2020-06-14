@@ -3,7 +3,7 @@
 /*
     -----------------------------------------------------------
         Autor: Osvaldo Aquino
-        nickname: owi
+        nickname: Owi
         NPM + NODEjs. PROMESAS Y API
     -----------------------------------------------------------
 */
