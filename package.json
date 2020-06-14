@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo_json",
+  "version": "1.0.0",
+  "description": "Asincronismo  y sus variantes",
+  "main": "src/index.js",
+  "scripts": {
+    "promesa": "node src/Promesas/Promesa_API.js"
+  },
+  "keywords": [
+    "callback",
+    "promesas"
+  ],
+  "author": "Owi DragonFenix",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {}
+}
